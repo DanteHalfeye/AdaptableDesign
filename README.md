@@ -24,7 +24,7 @@ Este proyecto fue realizado por:
 - HTML5
 - CSS3
 - JavaScript
-- [Framework/Librería específica, si se usó alguna]
+<!--- [Framework/Librería específica, si se usó alguna] -->
 
 ## Uso de la Plantilla
 

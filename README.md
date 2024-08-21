@@ -27,6 +27,9 @@ Este proyecto fue realizado por:
 - JavaScript
 <!--- [Framework/Librería específica, si se usó alguna] -->
 
+## Referentes visuales
+![image](https://github.com/user-attachments/assets/58592c3a-dacd-467a-ba79-a3b713edb137)
+
 ## Uso de la Plantilla
 
 1. Clonar el repositorio: `git clone [(https://github.com/DanteHalfeye/AdaptableDesign.git)]`

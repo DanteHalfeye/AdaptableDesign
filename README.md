@@ -1,5 +1,6 @@
 # AdaptableDesign
 ## Proyecto de Portafolio de Videojuegos
+**Link del Figma:** https://www.figma.com/proto/ePqzsu9ki7BdzWktzXdyIB/Wireframing-(Copy)?node-id=0-1&t=E6BJ4XwaP9pAeZj3-1
 
 ## Descripción
 

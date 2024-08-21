@@ -39,8 +39,4 @@ Este proyecto fue realizado por:
 ![image](https://github.com/user-attachments/assets/600806b8-649f-4821-b2dd-bd040363d7d6)
 ![image](https://github.com/user-attachments/assets/4d4b3ed9-8c86-49a7-be05-3d9bf8190646)
 ![image](https://github.com/user-attachments/assets/6ad4dfa0-6836-41a7-85ae-37a2aadd496d)
-
-
-
-
-
+![image](https://github.com/user-attachments/assets/14e91e7e-e820-456c-90c1-0d2eba3a56c3)

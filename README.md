@@ -28,6 +28,6 @@ Este proyecto fue realizado por:
 
 ## Uso de la Plantilla
 
-1. Clonar el repositorio: `git clone [URL del repositorio]`
+1. Clonar el repositorio: `git clone [[URL del repositorio](https://github.com/DanteHalfeye/AdaptableDesign.git)]`
 2. Abrir el archivo `index.html` en su navegador de preferencia.
 3. Personalizar el contenido según sus necesidades.
